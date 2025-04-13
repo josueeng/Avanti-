@@ -1,12 +1,57 @@
-# React + Vite
+# Projeto de Desenvolvimento de Layout e Busca de Perfil no GitHub  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Projeto 01 - Desenvolvimento do Layout  
 
-Currently, two official plugins are available:
+### Objetivo  
+O desafio final consiste em desenvolver um layout proposto no Figma utilizando **HTML**, **CSS** e **JavaScript**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Requisitos para o Desenvolvimento  
 
-## Expanding the ESLint configuration
+1. **Estruturação do HTML**  
+    - Estruturar o HTML conforme o layout do Figma.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Estilização com CSS**  
+    - Aplicar estilos com CSS, garantindo um layout responsivo (Versão Desktop e Mobile no Figma).  
+    - O candidato pode utilizar um framework CSS de sua escolha, como **Bootstrap**, **Bulma** ou outro.  
+
+3. **Funcionalidade de Busca com JavaScript**  
+    - No campo de busca, ao clicar no botão da lupa, o texto digitado no campo deve ser exibido abaixo com a mensagem:  
+      - `"Você buscou por: 'assunto buscado'"`.  
+
+4. **Interação dos Carrosséis**  
+    - Implementar a interação dos carrosséis. Pode ser através de uma biblioteca.  
+
+### Link para o Layout no Figma  
+[Layout no Figma](#)  
+
+---  
+
+### Como Executar o Projeto  
+
+1. Clone o repositório:  
+    ```bash  
+    git clone <url-do-repositorio>  
+    ```  
+
+2. Acesse o diretório do projeto:  
+    ```bash  
+    cd Avanti_LojaVirtual  
+    ```  
+
+3. Abra o arquivo `index.html` no navegador para visualizar o layout.  
+
+4. Certifique-se de que os arquivos CSS e JavaScript estão corretamente vinculados ao HTML.  
+
+---  
+
+### Tecnologias Utilizadas  
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- Framework CSS (opcional): **Bootstrap**, **Bulma**, ou outro.  
+
+---  
+
+### Autor  
+Desenvolvido por [Seu Nome].  
